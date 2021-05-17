@@ -1,0 +1,58 @@
+{
+  "properties": [
+    {
+      "name": "amazonProperties.s3.endpointUrl",
+      "type": "java.lang.String",
+      "description": "Description for amazonProperties.s3.endpointUrl."
+    },
+    {
+      "name": "amazonProperties.s3.accessKey",
+      "type": "java.lang.String",
+      "description": "Description for amazonProperties.s3.accessKey."
+    },
+    {
+      "name": "amazonProperties.s3.secretKey",
+      "type": "java.lang.String",
+      "description": "Description for amazonProperties.s3.secretKey."
+    },
+    {
+      "name": "amazonProperties.s3.bucketName",
+      "type": "java.lang.String",
+      "description": "Description for amazonProperties.s3.bucketName."
+    },
+    {
+      "name": "amazonProperties.s3.region",
+      "type": "java.lang.String",
+      "description": "Description for amazonProperties.s3.region."
+    },
+    {
+      "name": "security.jwt.auth.token.prefix",
+      "type": "java.lang.String",
+      "description": "Description for security.jwt.auth.token.prefix."
+    },
+    {
+      "name": "security.jwt.auth.header.name",
+      "type": "java.lang.String",
+      "description": "Description for security.jwt.auth.header.name."
+    },
+    {
+      "name": "security.jwt.secret.value",
+      "type": "java.lang.String",
+      "description": "Description for security.jwt.secret.value."
+    },
+    {
+      "name": "security.jwt.expiration.time",
+      "type": "java.lang.String",
+      "description": "Description for security.jwt.expiration.time."
+    },
+    {
+      "name": "app.properties.url",
+      "type": "java.lang.String",
+      "description": "Description for app.properties.url."
+    },
+    {
+      "name": "app.properties.frontendUrl",
+      "type": "java.lang.String",
+      "description": "Description for app.properties.frontendUrl."
+    }
+  ] }
